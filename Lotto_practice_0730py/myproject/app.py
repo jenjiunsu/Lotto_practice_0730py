@@ -57,3 +57,4 @@ def lottery():
 
 if __name__ == '__main__':
     app.run(host='127.0.0.1', port=9527)
+# 最後結果呈現的網址: http://127.0.0.1:9527/lottery
